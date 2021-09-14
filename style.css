@@ -1,0 +1,16 @@
+
+/* @import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+body {
+  font-family: 'Oswald', sans-serif !important;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Lekton&family=Nanum+Gothic&display=swap');
+
+body {
+  font-family: 'Lekton', sans-serif
+}
+
+.NaviB {
+  padding: 2rem 1rem ;
+}
