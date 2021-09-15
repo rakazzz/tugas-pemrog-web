@@ -5,12 +5,26 @@ body {
   font-family: 'Oswald', sans-serif !important;
 } */
 
-@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Lekton&family=Nanum+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 body {
-  font-family: 'Lekton', sans-serif
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.navbar-custom {
+  background-color: rgb(191, 7, 147);
 }
 
 .NaviB {
-  padding: 2rem 1rem ;
+  padding: 4rem 1rem ;
+}
+
+.padLeft {
+  padding-left: 110px;
+}
+
+.footerColor {
+  color: rgb(246, 11, 196);
+  background-color: rgb(66, 66, 66)
 }
