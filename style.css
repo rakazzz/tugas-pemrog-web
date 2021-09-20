@@ -35,3 +35,15 @@ background-color: rgb(0, 0, 0);
 .icyFont {
 color: rgb(196, 210, 242);
 }
+
+.modalHeaderColor {
+   background-color: rgb(28, 29, 29);
+}
+
+.modalBodyColor {
+  background-color: rgb(28, 29, 29);
+}
+
+..modalFooterColor {
+  background-color: rgb(28, 29, 29);
+}
